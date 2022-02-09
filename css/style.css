@@ -1,12 +1,13 @@
 .page{
     /* border: solid black; */
     background-color: whitesmoke;
-    margin-left: -800px;
+    margin-top: -700px;
+    margin-left: 250px;
     padding: 15px;
 }
 .piechart {
-    margin-top: 600px;
-    margin-left: -800px;
+    margin-top: 250px;
+    margin-left: 250px;
     display: block;
     position: absolute;
     width: 400px;
