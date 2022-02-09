@@ -40,3 +40,9 @@ body,
   width: 300px;
   background-color: #ddd;
 }
+.vote{
+  text-align: right;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
