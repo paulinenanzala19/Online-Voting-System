@@ -1,12 +1,17 @@
 .page{
     /* border: solid black; */
     background-color: whitesmoke;
-    margin-top: 100px;
-    margin-left: -500px;
+    margin-top: -900px;
+    margin-left: -800px;
     padding: 15px;
 }
+.chart h1{
+border: 1px solid black;
+margin-top: -300px;
+margin-left: -300px;
+}
 .piechart {
-    margin-top: 250px;
+    margin-top: 50px;
     margin-left: -300px;
     display: block;
     position: absolute;
@@ -24,4 +29,9 @@ body,
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.main{
+  border: 1px solid black;
+  margin-top: 900px;
+  margin-left: -200px;
 }
